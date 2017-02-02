@@ -1,7 +1,7 @@
 # RecyclerView2
 ScreenShot:
 <br><img src="https://github.com/erlangga87/RecyclerView2/blob/master/2%2C1.PNG"/>
-<br><img src="https://github.com/erlangga87/RecyclerView2/blob/master/2%2C2.PNG"/>
+<br><img src="https://github.com/erlangga87/RecyclerView2/blob/master/2%2C2.png"/>
 
 
 
